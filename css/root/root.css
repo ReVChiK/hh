@@ -1,0 +1,10 @@
+:root{
+    --landing-maxWidth: 1170px;
+    --landing-media-laptopMedium_maxWidth: 1024px;
+    --landing-media-laptop_maxWidth: 768px;
+    --landing-media-laptopSmall_maxWidth: 540px;
+    --landing-media-padding: 0px 7px 0px 7px;
+
+    --landing-titleSize: 28px;
+    --landing-media-titleSize: 24px;
+}
